@@ -97,7 +97,7 @@ Input parameters checking - Name -Date of Birth - Photo -Address Proof -Identity
 - Secondary account
 - RD account
 - Account for a company
-- 
+  
 #### Test cases 
 □ Checking mandatory input parameters
 
